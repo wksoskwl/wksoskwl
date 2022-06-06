@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**wksoskwl/wksoskwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&text=minseung🎈%20&fontSize=90)<br><br>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=wksoskwl&show_icons=true&theme=nightowl)
+
+</div>
+
+<h1 align="center"><b>📚 Leaning ✏</b></h1>
+<p align="center">
+<img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
+</p><br>
+<h1 align="center"><b>🛠 Tool 🛠</b></h1>
+<p align="center">
+<img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?stylle=flat&logo=Notion&logoColor=white"/></a>
+</P>

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=minseung&show_icons=true&theme=nightowl)
+![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=wksoskwl&show_icons=true&theme=nightowl)
 
 </div>
 

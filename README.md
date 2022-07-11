@@ -8,7 +8,7 @@
 
 </div>
 
-<h1 align="center"><b>📚 Leaning ✏</b></h1>
+<h1 align="center"><b>📚 Learning ✏</b></h1>
 <p align="center">
 <img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>

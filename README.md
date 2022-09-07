@@ -1,4 +1,4 @@
-<div align="center">
+3<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&text=MinSeung🎈%20&fontSize=90)<br><br>
 
@@ -18,4 +18,5 @@
 <img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?stylle=flat&logo=Notion&logoColor=white"/></a>
 </P>
+
 

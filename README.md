@@ -1,4 +1,4 @@
-3<div align="center">
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&text=MinSeung🎈%20&fontSize=90)<br><br>
 
